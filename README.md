@@ -1,1 +1,1 @@
-I have Atempted Skills Certification test vvia Online Protal or Websites such as HackerRank.
+I have Attempted Skills Certification test via Online Portal or Websites such as HackerRank
