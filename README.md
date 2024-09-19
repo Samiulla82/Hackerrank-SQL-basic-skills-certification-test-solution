@@ -4,7 +4,7 @@ This section includes detailed information about the skills certification tests 
 
 ## Key Certifications:
 
--HackerRank: Python,Excel, SQL,and Power BI Problem Solving
+- HackerRank: Python,Excel, SQL,and Power BI Problem Solving
 
 ## 2. Skills & Topics Covered
 The certification tests in this repository span a variety of skill sets, including:
